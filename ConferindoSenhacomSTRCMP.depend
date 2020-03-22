@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542490142 source:c:\ads--unip\linguagem tecnologica da computação\treino em c\conferindosenhacomstrcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
